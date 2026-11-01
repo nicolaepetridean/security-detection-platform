@@ -1,0 +1,10 @@
+fastapi==0.141.1
+uvicorn==0.53.0
+SQLAlchemy==2.1.6
+pydantic==2.13.5
+PyJWT==2.14.0
+argon2-cffi==25.1.0
+python-multipart==0.0.32
+# dev / test
+pytest==9.1.1
+httpx==0.28.1
